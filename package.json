@@ -1,0 +1,17 @@
+{
+    "name": "factly",
+    "version": "1.0.0",
+    "license": "MIT",
+    "scripts": {
+        "build": "gatsby build",
+        "start": "gatsby develop",
+        "serve": "gatsby serve",
+        "clean": "gatsby clean"
+    },
+    "dependencies": {
+        "gatsby": "^2.15.14",
+        "gatsby-theme-factly": "git://github.com/mhjadav/gatsby-theme-factly#master",
+        "react": "^16.9.0",
+        "react-dom": "^16.9.0"
+    }
+}
