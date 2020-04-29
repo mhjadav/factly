@@ -9,9 +9,9 @@
         "clean": "gatsby clean"
     },
     "dependencies": {
-        "gatsby": "^2.15.14",
+        "gatsby": "^2.21.5",
         "gatsby-theme-factly": "git://github.com/mhjadav/gatsby-theme-factly#master",
-        "react": "^16.9.0",
-        "react-dom": "^16.9.0"
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1"
     }
 }

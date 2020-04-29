@@ -1618,9 +1618,9 @@
     tsutils "^3.17.1"
 
 "@urql/core@^1.11.0":
-  version "1.11.6"
-  resolved "https://registry.yarnpkg.com/@urql/core/-/core-1.11.6.tgz#737e6d183f76c02f90a9e0759063fee14ada3d85"
-  integrity sha512-hbRZXxFdWt9/U+BaQdYKA/GaeU6+CTK9cnbfKtjA9eDgJ5stEREH/x+XHGzZzdp5lcj7bVZQtm6iO82B3k/yWg==
+  version "1.11.7"
+  resolved "https://registry.yarnpkg.com/@urql/core/-/core-1.11.7.tgz#ff0c7b613c2a4b2a76c462e1d65b2472142fe8ef"
+  integrity sha512-0LGOfohIoCmBf66QEV8pdwehJUZkViGZLmwPoHwcZUx1ONgKsGTzjdNBdNnvCzfuaRLlsXj8r7GmO5M6oVKjsg==
   dependencies:
     wonka "^4.0.10"
 
@@ -4210,33 +4210,6 @@ defined@^1.0.0:
   resolved "https://registry.yarnpkg.com/defined/-/defined-1.0.0.tgz#c98d9bcef75674188e110969151199e39b1fa693"
   integrity sha1-yY2bzvdWdBiOEQlpFRGZ45sfppM=
 
-"dega-factly-theme@git://github.com/mhjadav/dega-factly-theme#master":
-  version "1.0.0"
-  resolved "git://github.com/mhjadav/dega-factly-theme#09c681dc68627f17103d35e6e079abde0f32c002"
-  dependencies:
-    dotenv "^8.2.0"
-    gatsby "^2.18.7"
-    gatsby-image "^2.2.34"
-    gatsby-plugin-google-analytics "^2.1.29"
-    gatsby-plugin-manifest "^2.2.31"
-    gatsby-plugin-offline "^3.0.27"
-    gatsby-plugin-postcss "^2.2.2"
-    gatsby-plugin-purgecss "^5.0.0"
-    gatsby-plugin-react-helmet "^3.1.16"
-    gatsby-plugin-robots-txt "^1.5.0"
-    gatsby-plugin-sharp "^2.3.5"
-    gatsby-plugin-sitemap "^2.2.22"
-    gatsby-source-filesystem "^2.1.40"
-    gatsby-source-graphql "^2.5.0"
-    gatsby-transformer-sharp "^2.3.7"
-    prop-types "^15.7.2"
-    react "^16.12.0"
-    react-dom "^16.12.0"
-    react-helmet "^5.2.1"
-    react-infinite-scroller "^1.2.4"
-    simple-load-script "^1.0.2"
-    tailwindcss "^1.2.0"
-
 del@^4.1.1:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/del/-/del-4.1.1.tgz#9e8f117222ea44a31ff3a156c049b99052a9f0b4"
@@ -6138,7 +6111,7 @@ gatsby-telemetry@^1.3.0:
 
 "gatsby-theme-factly@git://github.com/mhjadav/gatsby-theme-factly#master":
   version "1.0.0"
-  resolved "git://github.com/mhjadav/gatsby-theme-factly#17488aadb74eeb14256d044987bb54b3bb72c72d"
+  resolved "git://github.com/mhjadav/gatsby-theme-factly#efd2d1c26c9915f35243675bf9beb3931d7e91ed"
   dependencies:
     dotenv "^8.2.0"
     gatsby "^2.18.7"
@@ -6176,7 +6149,7 @@ gatsby-transformer-sharp@^2.3.7:
     semver "^5.7.1"
     sharp "^0.25.1"
 
-gatsby@^2.15.14, gatsby@^2.18.7:
+gatsby@^2.18.7, gatsby@^2.21.5:
   version "2.21.5"
   resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.21.5.tgz#4ee3542db41ac318f7d44c29b20da79e86b64c75"
   integrity sha512-p4kA7G4ROhgreESV6CQxOI/ezNGuXou+VSJhiM4zWc+99TinWEQ+V/RJ0KuVlp8ca4iCeS2+HqFMr/uORKHnfA==
@@ -11017,7 +10990,7 @@ react-dev-utils@^9.1.0:
     strip-ansi "5.2.0"
     text-table "0.2.0"
 
-react-dom@^16.12.0, react-dom@^16.9.0:
+react-dom@^16.12.0, react-dom@^16.13.1:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.13.1.tgz#c1bd37331a0486c078ee54c4740720993b2e0e7f"
   integrity sha512-81PIMmVLnCNLO/fFOQxdQkvEq/+Hfpv24XNJfpyZhTRfO0QcmQIF/PgCa1zCOj2w1hrn12MFLyaJ/G0+Mxtfag==
@@ -11105,7 +11078,7 @@ react-side-effect@^1.1.0:
   dependencies:
     shallowequal "^1.0.1"
 
-react@^16.12.0, react@^16.8.0, react@^16.9.0:
+react@^16.12.0, react@^16.13.1, react@^16.8.0:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react/-/react-16.13.1.tgz#2e818822f1a9743122c063d6410d85c1e3afe48e"
   integrity sha512-YMZQQq32xHLX0bz5Mnibv1/LHb3Sqzngu7xstSM+vrkE5Kzr9xE0yMByK5kMoTK30YVJE61WfbxIFFvfeDKT1w==
